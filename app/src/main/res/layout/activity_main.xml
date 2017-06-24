@@ -7,13 +7,6 @@
     android:orientation="vertical"
     tools:context="com.example.abiduzair.demohack.MainActivity">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/button_name"
-        android:id="@+id/button"
-        android:layout_gravity="center_horizontal"
-        />
     <ImageView
         android:layout_width="350dp"
         android:layout_height="350dp"
