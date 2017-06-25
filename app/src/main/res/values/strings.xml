@@ -1,4 +1,8 @@
 <resources>
+    <string name="app">Angel App</string>
     <string name="app_name">DemoHack</string>
     <string name="button_name">Capture</string>
+    <string name="choose_image">Capture</string>
+    <string name="upload">Upload</string>
+    <string name="image_result">Image Results</string>
 </resources>
