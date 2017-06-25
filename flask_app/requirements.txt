@@ -1,0 +1,4 @@
+Werkzeug==0.12.2
+requests==2.18.1
+Flask==0.12.2
+azure_common==1.1.6
